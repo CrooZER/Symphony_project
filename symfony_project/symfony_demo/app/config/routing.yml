@@ -21,5 +21,5 @@ homepage:
 products:
     path: /products
     defaults:
-        _controller: AppBundledd:Template:template
+        _controller: AppBundle:Template:template
         template:    'products/products.html.twig'
